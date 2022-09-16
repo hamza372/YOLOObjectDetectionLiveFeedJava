@@ -29,7 +29,6 @@ import com.example.objectdetectionlivefeed.Drawing.BorderedText;
 import com.example.objectdetectionlivefeed.Drawing.MultiBoxTracker;
 import com.example.objectdetectionlivefeed.Drawing.OverlayView;
 import com.example.objectdetectionlivefeed.ML.Classifier;
-import com.example.objectdetectionlivefeed.ML.YoloV4Classifier;
 import com.example.objectdetectionlivefeed.livefeed.CameraConnectionFragment;
 import com.example.objectdetectionlivefeed.livefeed.ImageUtils;
 
@@ -81,7 +80,7 @@ public class MainActivity extends AppCompatActivity implements ImageReader.OnIma
 
         //TODO inialize classifier class
         try {
-            classifier = YoloV4Classifier.create(getAssets(), "yolov4-416.tflite","labelmap.txt");
+            classifier = new Classifier(getAssets(), "yolov4-416.tflite","labelmap.txt");
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -269,7 +268,6 @@ public class MainActivity extends AppCompatActivity implements ImageReader.OnIma
 
             }
         });
-
 
     }
 

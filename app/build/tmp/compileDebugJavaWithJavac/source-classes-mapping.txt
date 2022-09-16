@@ -13,11 +13,9 @@ com/example/objectdetectionlivefeed/MainActivity.java
  com.example.objectdetectionlivefeed.MainActivity$2
  com.example.objectdetectionlivefeed.MainActivity$3
  com.example.objectdetectionlivefeed.MainActivity$4
-com/example/objectdetectionlivefeed/ML/YoloV4Classifier.java
- com.example.objectdetectionlivefeed.ML.YoloV4Classifier
- com.example.objectdetectionlivefeed.ML.YoloV4Classifier$1
 com/example/objectdetectionlivefeed/ML/Classifier.java
  com.example.objectdetectionlivefeed.ML.Classifier
+ com.example.objectdetectionlivefeed.ML.Classifier$1
  com.example.objectdetectionlivefeed.ML.Classifier$Recognition
 com/example/objectdetectionlivefeed/BuildConfig.java
  com.example.objectdetectionlivefeed.BuildConfig

@@ -1,7 +1,7 @@
-#Tue Sep 06 10:15:35 PDT 2022
-base.1=E\:\\ObjectDetectionAndroidCourse\\ObjectDetectionAppSection\\Yolo\\Java\\ObjectDetectionLiveFeedJavaComplete\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+#Fri Sep 16 08:10:50 PDT 2022
+base.1=C\:\\Users\\abc\\Documents\\GitHub\\FlutterCourse\\YOLOObjectDetectionLiveFeedJava\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
-base.0=E\:\\ObjectDetectionAndroidCourse\\ObjectDetectionAppSection\\Yolo\\Java\\ObjectDetectionLiveFeedJavaComplete\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.0=C\:\\Users\\abc\\Documents\\GitHub\\FlutterCourse\\YOLOObjectDetectionLiveFeedJava\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

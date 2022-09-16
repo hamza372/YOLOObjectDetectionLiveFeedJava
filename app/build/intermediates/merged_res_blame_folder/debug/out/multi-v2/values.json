@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\ObjectDetectionAndroidCourse\\ObjectDetectionAppSection\\Yolo\\Java\\ObjectDetectionLiveFeedJavaComplete\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\abc\\Documents\\GitHub\\FlutterCourse\\YOLOObjectDetectionLiveFeedJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "E:\\ObjectDetectionAndroidCourse\\ObjectDetectionAppSection\\Yolo\\Java\\ObjectDetectionLiveFeedJavaComplete\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "60",
-                        "endOffsets": "73"
-                    },
-                    "to": {
-                        "startLines": "975",
-                        "startColumns": "4",
-                        "startOffsets": "56477",
-                        "endColumns": "60",
-                        "endOffsets": "56533"
-                    }
-                },
                 {
                     "source": "C:\\Users\\abc\\.gradle\\caches\\transforms-2\\files-2.1\\3b91b187821fc6e4f6300506297b769e\\jetified-viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
@@ -56,25 +39,6 @@
                         "endLines": "300,635,636,637,645,646,647,882,6770",
                         "endColumns": "55,58,47,55,74,75,71,65,24",
                         "endOffsets": "14071,35118,35166,35222,35908,35984,36056,51011,441077"
-                    }
-                },
-                {
-                    "source": "E:\\ObjectDetectionAndroidCourse\\ObjectDetectionAppSection\\Yolo\\Java\\ObjectDetectionLiveFeedJavaComplete\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "102",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "850"
-                    },
-                    "to": {
-                        "startLines": "3546",
-                        "startColumns": "4",
-                        "startOffsets": "232113",
-                        "endLines": "3558",
-                        "endColumns": "12",
-                        "endOffsets": "232847"
                     }
                 },
                 {
@@ -154,6 +118,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\abc\\Documents\\GitHub\\FlutterCourse\\YOLOObjectDetectionLiveFeedJava\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "60",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "975",
+                        "startColumns": "4",
+                        "startOffsets": "56477",
+                        "endColumns": "60",
+                        "endOffsets": "56533"
+                    }
+                },
+                {
                     "source": "C:\\Users\\abc\\.gradle\\caches\\transforms-2\\files-2.1\\78be485c09b159ccd6437b5ce26410a0\\jetified-appcompat-resources-1.2.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,29,36,47,74",
@@ -170,23 +151,6 @@
                         "endLines": "4781,4788,4799,6980,6985",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "313401,313786,314383,452199,452469"
-                    }
-                },
-                {
-                    "source": "E:\\ObjectDetectionAndroidCourse\\ObjectDetectionAppSection\\Yolo\\Java\\ObjectDetectionLiveFeedJavaComplete\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "293,57,105,153,201,247,336",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "330,99,147,195,241,287,373"
-                    },
-                    "to": {
-                        "startLines": "390,478,479,480,491,492,495",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "18715,24708,24755,24802,25546,25591,25757",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "18752,24750,24797,24844,25586,25631,25794"
                     }
                 },
                 {
@@ -242,6 +206,42 @@
                         "endLines": "384,385,468,469,579,580,581,582,583,584,585,816,817,818,819,820,821,822,823,824,825,826,827,828,829,830,840,841,842,843,844,845,846,847,848,849,850,851,852,853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,883,884,899,900,901,902,903,904,905,906,907,908,915,943,1033,3360,3364,3365,3369,3370,3916,3917,5859,6126,6158,6201,6208",
                         "endColumns": "71,87,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,56,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "18303,18391,24052,24115,31458,31526,31598,31668,31729,31803,31876,47061,47122,47184,47248,47310,47371,47439,47539,47599,47665,47738,47807,47864,47916,47978,48568,48644,48709,48768,48827,48887,48947,49007,49067,49127,49187,49247,49307,49367,49427,49486,49546,49606,49666,49726,49786,49846,49906,49966,50026,50086,50145,50205,50265,50324,50383,50442,50501,50560,50619,51046,51081,51826,51889,51944,52002,52059,52109,52170,52227,52261,52296,52627,54286,65839,220923,221124,221234,221435,221564,260410,260477,372145,400089,402154,404231,404608"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abc\\Documents\\GitHub\\FlutterCourse\\YOLOObjectDetectionLiveFeedJava\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "293,57,105,153,201,247,336",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "330,99,147,195,241,287,373"
+                    },
+                    "to": {
+                        "startLines": "390,478,479,480,491,492,495",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "18715,24708,24755,24802,25546,25591,25757",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "18752,24750,24797,24844,25586,25631,25794"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\abc\\Documents\\GitHub\\FlutterCourse\\YOLOObjectDetectionLiveFeedJava\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "850"
+                    },
+                    "to": {
+                        "startLines": "3546",
+                        "startColumns": "4",
+                        "startOffsets": "232113",
+                        "endLines": "3558",
+                        "endColumns": "12",
+                        "endOffsets": "232847"
                     }
                 }
             ]
